@@ -3,6 +3,7 @@ Remove bloatware on Samsung smartphones
 
 How-to:
 - https://www.wired.com/story/remove-bloatware-phone/
+- https://www.xda-developers.com/install-adb-windows-macos-linux/
 
 Enable developer options on an Android smartphone:
 - https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/
