@@ -1,8 +1,10 @@
 # remove-samsung-bloatware
 Remove bloatware on Samsung smartphones
 
-Links:
+Enable developer options on an Android smartphone:
 - https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/
+
+Links 2:
 - https://www.thecustomdroid.com/galaxy-s20-bloatware-removal-guide/
 - https://www.wired.com/story/remove-bloatware-phone/
 - https://technastic.com/remove-samsung-bloatware-safe-to-remove-apps/
