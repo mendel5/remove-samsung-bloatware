@@ -13,5 +13,5 @@ APK package name overview:
 - https://technastic.com/remove-samsung-bloatware-safe-to-remove-apps/
 - https://r1.community.samsung.com/t5/others/how-to-remove-samsung-bloatware-without-root/td-p/5817510
 
-Apps:
+Specific Apps:
 - Samsung Free, `com.samsung.android.app.spage`. https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-free/samsung-free-5-0-01-14-release/samsung-daily-5-0-01-14-android-apk-download/
